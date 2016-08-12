@@ -15,7 +15,6 @@ Lines that were removed start with <
 Lines that were added start with >
 
 # Need to:
-- Set the files to the same semester
 - Recheck files each day
 - Log the date that the file was changed
 - Format the changes in a nice way
